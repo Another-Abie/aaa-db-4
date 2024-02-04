@@ -1,0 +1,12 @@
+{
+  "name": "aaa-db-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "keywords": [],
+  "author": "change npm confign set init-author-name",
+  "license": "change npm set init-license"
+}
